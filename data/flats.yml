@@ -1,0 +1,42 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Paris, France"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+jd0g3600:
+  name: Jake's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+d-warehime:
+  name: "Daniel's home"
+  description: "Charming room in Amsterdam"
+  city_name: "Amsterdam, Netherlands"
+  city_slug: "amsterdam"
+  wifi: false
+  rating: 4
+avisser79:
+  name: "Arjan's home"
+  description: "Small flat in Bali"
+  city_name: "Bali, Indonesia"
+  city_slug: "bali"
+  wifi: true
+  rating: 3
+monsieurpaillard:
+  name: "Romain's home"
+  description: Nice flat in Picamoke
+  city_name: "Berlin, Germany"
+  city_slug: "berlin"
+  wifi: true
+  rating: 5

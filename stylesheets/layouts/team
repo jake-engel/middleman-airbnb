@@ -1,0 +1,6 @@
+#team {
+  padding-top: 20px; }
+
+.img-small {
+  height: 150px;
+  width: auto; }
